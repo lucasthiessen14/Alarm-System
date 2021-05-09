@@ -1,4 +1,4 @@
 # Alarm-System
 Alarm System created with Arduino equipped with sounds sensor and ultrasonic sensor to detect motion. 
 
-![](photos/img_3114.jpg)
+![](photos/IMG_3114.jpg)
